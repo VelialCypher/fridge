@@ -9,5 +9,7 @@ How to use:
 
 * Select the expiration date of the product's shelf life
 
+* Add product
+
 In the application, you can select the expiration date, add a product and delete.
 Show freshness under the product.
