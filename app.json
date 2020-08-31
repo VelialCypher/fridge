@@ -29,6 +29,6 @@
       "favicon": "./assets/favicon.png"
     },
     "description": "A simple application for keeping track of the freshness of food in the refrigerator.",
-    "githubUrl": "https://github.com/VelialCypher"
+    "githubUrl": "https://github.com/VelialCypher/fridge"
   }
 }
